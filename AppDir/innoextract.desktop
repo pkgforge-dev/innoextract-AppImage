@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=innoextract
+Exec=innoextract
+Icon=icon_128
+Comment="A tool to extract installers created by Inno Setup"
+Type=Application
+Terminal=true
+Keywords=Tool;Extraction;
+Categories=System;
