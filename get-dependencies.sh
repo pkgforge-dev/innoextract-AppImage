@@ -6,10 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm \
-    boost      \
-    boost-libs \
-    cmake
+pacman -Syu --noconfirm innoextract
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
